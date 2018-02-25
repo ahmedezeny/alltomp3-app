@@ -299,7 +299,7 @@ let menuTexts = {
     redo: 'فعل ثانية',
     cut: 'قص',
     copy: 'مثال',
-    paste: 'معجون',
+    paste: 'اضافة',
     selectAll: 'اختر الكل'
   },
   en: {
